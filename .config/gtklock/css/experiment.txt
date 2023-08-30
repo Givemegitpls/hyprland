@@ -1,0 +1,45 @@
+/*
+You can type here any CSS rule recognized by GTK+.
+You can temporarily disable this custom CSS by clicking on the “Pause” button above.
+
+Changes are applied instantly and globally, for the whole application.
+*/
+window {
+	background-image: url("/home/alex/.config/gtklock/css/background.png");
+	background-size: 64em;
+	background-position: center;
+}
+
+#window-box {
+	padding: 32px 64px;
+	box-shadow: rgba(0, 0, 0, 1) 0px 4px 12px; 
+	border-radius: 1em;
+	background-color: rgba(256, 256, 256, 1);
+}
+
+#clock-label {
+	color: rgba(0, 0, 0, 0.75) ;
+}
+
+#input-field {
+	background-color: rgba(206, 206, 206, 1);
+	color: rgba(0, 0, 0, 0.75) ;
+	border: 1px solid black;
+	border-radius: 0.5em;
+}
+
+#input-label {
+	font-size: 0em;
+}
+
+#unlock-button {
+	font-size: 0; 
+	border: 0px;
+	background-color: white;
+}
+
+#unlock-button :active {
+	font-size: 0; 
+	border: 0px;
+	background-color: white;
+}

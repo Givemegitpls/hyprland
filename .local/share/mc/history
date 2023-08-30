@@ -1,0 +1,95 @@
+[input-def]
+0=*
+
+[inpmc.fm.mkdir]
+0=environment.d
+
+[inp:sftplink_cmd: SFTP to machine ]
+0=192.168.1.57
+1=192.168.1.91
+2=185.78.76.56
+3=alex@185.78.76.56
+4=alex@185.78.76.56:3949
+
+[:select_cmd: Unselect ]
+0=
+
+[inpmc.fm.menu.exec.parameter]
+0=
+1=kate
+2=sudo nano
+3=nano
+4=sudo cp /usr/include/gtk
+5=sudo rmdir -r
+6=google-chrome-stable
+7=chmod u+x
+8=vim
+
+[input2]
+0=/home/alex/.local/share/
+1=/home/alex/Downloads/
+2=/home/alex/.config/pipewire/
+3=style.css
+4=/home/alex/
+5=/home/alex/.config/gtklock/css/
+
+[cmdline]
+0=)
+1=touch gamescope-session.conf
+2=cd /usr/share/pipewire
+3=mkdir pipewire
+4=kate pipewire.conf
+5=kate config
+6=kate
+7=kate pipewire-pulse.conf
+8=[<0;85;34M
+9=mkdir gtklock
+10=touch
+11=
+
+[Dir Hist New Right Panel]
+0=/home/alex/.local
+1=/home/alex/.local/share
+2=/home/alex/Downloads
+3=/home/alex/.config/pipewire
+4=/home/alex/.config
+5=/home/alex/.config/cava
+6=/sftp://alex@185.78.76.56:3949/
+7=/
+8=/home/alex
+
+[Dir Hist New Left Panel]
+0=/sftp://192.168.1.57/
+1=/sftp://192.168.1.57/home
+2=/sftp://192.168.1.57/home/alex
+3=/sftp://192.168.1.57/home/alex/.local
+4=/sftp://192.168.1.57/home/alex/.local/share
+5=/home/alex/.local/share/mc
+6=/home/alex/.local/share/mc/skins
+7=/home/alex/Documents
+8=/home/alex/.config/environment.d
+9=/dev
+10=/home/alex/.local
+11=/home/alex/.local/share
+12=/home/alex/.local/share/Steam
+13=/home/alex/.local/share/Steam/steamapps
+14=/home/alex/.local/share/Steam/steamapps/common
+15=/sftp://192.168.1.91/
+16=/sftp://192.168.1.91/home
+17=/sftp://192.168.1.91/home/alex
+18=/sftp://192.168.1.91/home/alex/Downloads
+19=/usr/share/pipewire
+20=/usr/share
+21=/home/alex/.ssh
+22=/etc
+23=/etc/bluetooth
+24=/usr
+25=/usr/local
+26=/usr/local/bin
+27=/home
+28=/mnt
+29=/
+30=/home/alex/.config/gtklock
+31=/home/alex
+32=/home/alex/.config
+33=/home/alex/.config/rofi
