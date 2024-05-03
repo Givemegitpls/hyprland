@@ -1,0 +1,27 @@
+colors:
+  name: Barmaley'S Theme
+  author: Barmaley
+  primary:
+    background: "#090300"
+    foreground: "#dadaff"
+  cursor:
+    text: "#090300"
+    cursor: "#a5a2a2"
+  normal:
+    black: "#87b2f6"
+    red: "#db2d20"
+    green: "#01a252"
+    yellow: "#87b2f6"
+    blue: "#87b2f6"
+    magenta: "#a16a94"
+    cyan: "#b5e4f4"
+    white: "#a5a2a2"
+  bright:
+    black: "#87b2f6"
+    red: "#db2d20"
+    green: "#01a252"
+    yellow: "#87b2f6"
+    blue: "#87b2f6"
+    magenta: "#a16a94"
+    cyan: "#b5e4f4"
+    white: "#f7f7f7"
